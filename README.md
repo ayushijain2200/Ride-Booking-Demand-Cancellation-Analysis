@@ -47,6 +47,11 @@ The dataset contains ride booking details such as:
 * Improve driver allocation near **high-demand areas like airports**
 * Provide incentives for drivers to operate during peak times
 * Reduce cancellations through better matching algorithms
+<img width="790" height="652" alt="image" src="https://github.com/user-attachments/assets/e4de96ab-1a80-48d4-a01e-220311ff7b00" />
+<img width="697" height="547" alt="image" src="https://github.com/user-attachments/assets/0cb25280-51a1-4c34-bb37-b17ea5f09b9c" />
+<img width="727" height="672" alt="image" src="https://github.com/user-attachments/assets/68448284-0b12-4994-8d3a-a53c19d32f25" />
+<img width="537" height="475" alt="image" src="https://github.com/user-attachments/assets/419afd17-7203-4655-b90e-17cf302b0bb8" />
+
 
 ## 🚀 Conclusion
 This project highlights how analyzing ride demand and cancellations can help optimize operations, reduce inefficiencies, and improve customer experience in ride-booking platforms.
